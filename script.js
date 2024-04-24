@@ -65,3 +65,16 @@ VANTA.CELLS({
   color2: 0x1A759F,
   speed: 2
 });
+
+VANTA.FOG({
+  el: '#fly',
+  mouseControls: false,
+  touchControls: false,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  highlightColor: 0xf0f7fa,
+  midtoneColor: 0x8dc1d7,
+  lowlightColor: 0x3d7f94,
+  baseColor: 0x60a8be
+});

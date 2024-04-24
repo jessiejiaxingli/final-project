@@ -62,11 +62,11 @@ a{
 }
 
 .footer{
-	display: flex;
-	justify-content: right;
+	text-align: right;
 	font-size: 1rem;
-	margin: 0vw;
-	padding: 1vw;
+	margin: 0px;
+	padding: 0px;
+	color: #3D7F94;
 }
 
 .content2{
@@ -106,6 +106,12 @@ a{
 	color: #8DC1D7;
 	margin: 0vw;
 	padding: 15vw 10vw;
+	text-shadow: #06333B 1px 0 10px;
+}
+
+.content35{
+	margin-top: 150vh;
+	color: white;
 }
 
 #cloudBorder{
@@ -142,6 +148,10 @@ a{
 	background-repeat: no-repeat;
 }
 
+#ending{
+	text-shadow: #06333B 1px 0 10px;
+}
+
 #my-background{
 	margin: 0px;
 	padding: 10vh;
@@ -158,4 +168,199 @@ a{
 	height: auto;
 	margin: 0px;
 	padding-bottom: 20vh;
+}
+
+#deepwater{
+	height: auto;
+	margin: 0px;
+	padding-bottom: 20vh;
+}
+
+#fly{
+	height: auto;
+	margin: 0px;
+	padding: 1vw;
+	padding-bottom: 20vh;
+}
+
+.popup{
+	width: 20%;
+	position: absolute;
+}
+
+#first{
+	bottom: 155vh;
+	right: 10vw;
+}
+
+#second{
+	bottom: 125vh;
+	right: 20vw;
+}
+
+#third{
+	top: 95vh;
+	left: 5vw;
+}
+
+#fourth{
+	top: 75vh;
+	right: 10vw;
+	z-index: -1;
+}
+
+#fifth{
+	top: 125vh;
+	left: 5vw;
+	z-index: -1;
+}
+
+#sixth{
+	top: 80vh;
+	right: 5vw;
+}
+
+#seventh{
+	top: 120vh;
+	left: 10vw;
+}
+
+#eighth{
+	bottom: 230vh;
+	left: 20vw;
+}
+
+#ninth{
+	top: 10vh;
+	left: 3vw;
+}
+
+#tenth{
+	top: 30vh;
+	left: 8vw;
+}
+
+#eleventh{
+	top: 30vh;
+	right: 5vw;
+}
+
+#twelfth{
+	top: 50vh;
+	right: 10vw;
+}
+
+#thirteenth{
+	top: 180vh;
+	left: 5vw;
+}
+
+#fourteenth{
+	top: 200vh;
+	left: 10vw;
+}
+
+#fifteenth{
+	top: 210vh;
+	right: 5vw;
+}
+
+#sixteenth{
+	top: 230vh;
+	right: 10vw;
+}
+
+#seventeenth{
+	top: 220vh;
+	left: 20vw;
+}
+
+#eighteenth{
+	top: 370vh;
+	left: 5vw;
+}
+
+#nineteenth{
+	top: 380vh;
+	left: 10vw;
+}
+
+#twentieth{
+	top: 390vh;
+	left: 20vw;
+}
+
+#twentyone{
+	top: 380vh;
+	right: 20vw;
+}
+
+#twentytwo{
+	top: 360vh;
+	right: 10vw;
+}
+
+#twentythree{
+	top: 370vh;
+	right: 2vw;
+}
+
+#twentyfour{
+	bottom: 250vh;
+	left: 5vw;
+}
+
+#twentyfive{
+	bottom: 200vh;
+	left: 10vw;
+}
+
+#twentysix{
+	bottom: 220vh;
+	left: 20vw;
+}
+
+#twentyseven{
+	bottom: 210vh;
+	left: 25vw;
+}
+
+#twentyeight{
+	bottom: 240;
+	left: 40vw;
+}
+
+#twentynine{
+	bottom: 220vh;
+	left: 34vw;
+}
+
+#thirty{
+	bottom: 250vh;
+	right: 30vw;
+}
+
+#thirtyone{
+	bottom: 230vh;
+	right: 25vw;
+}
+
+#thirtytwo{
+	bottom: 235vh;
+	right: 15vw;
+}
+
+#thirtythree{
+	bottom: 245vh;
+	right: 10vw;
+}
+
+#thirtyfour{
+	bottom: 220vh;
+	right: 5vw;
+}
+
+#thirtyfive{
+	bottom: 240vh;
+	right: 3vw;
 }
