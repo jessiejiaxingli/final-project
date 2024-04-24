@@ -1,3 +1,5 @@
+AOS.init();
+
 VANTA.FOG({
   el: '#my-background',
   mouseControls: true,
