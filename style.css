@@ -157,7 +157,7 @@ a:hover::before {
 	top: 230vh;
 	left: 0vw;
 	z-index: +99;
-	width: 100vw;
+	width: 98vw;
 }
 
 #waterBorder{
@@ -167,7 +167,7 @@ a:hover::before {
 	bottom: 385vh;
 	left: 0vw;
 	z-index: +99;
-	width: 100vw;
+	width: 98vw;
 }
 
 .tonext2{
@@ -192,6 +192,7 @@ a:hover::before {
 	margin: 0px;
 	padding: 10vh;
 	box-sizing: border-box;
+	overflow: hidden;
 }
 
 #background2{
