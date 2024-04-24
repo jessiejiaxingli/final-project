@@ -10,6 +10,7 @@ body{
 	font-size: 3rem;
 	text-align: center;
 	height: auto;
+	width: auto;
 	box-sizing: border-box;
 }
 
@@ -195,14 +196,19 @@ a:hover::before {
 
 #background2{
 	height: auto;
+	width: auto;
 	margin: 0px;
-	padding-bottom: 20vh;
+	padding-bottom: 0vh;
+}
+
+#birds{
+	width: auto;
 }
 
 #water{
 	height: auto;
 	margin: 0px;
-	padding-bottom: 20vh;
+	padding-bottom: 40vh;
 }
 
 #deepwater{
